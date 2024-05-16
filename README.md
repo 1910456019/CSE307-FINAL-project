@@ -1,3 +1,3 @@
-This is a java implementation for nucleotide structure alignment(or you can called sequence alignment). This code giving a processing for how the griding worked in the alignment task. It's a prove for understanding the forward and backword algorithm.
+This is a java implementation for SSAP algorithm. 
 
-To run this, you can compile by " javac SequenceAlignment.java ". and run by "java SequenceAlignment"
+To run this, you can compile by " javac PDBParser.java ". and run by "java PDBParser"
